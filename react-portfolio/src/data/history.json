@@ -1,0 +1,21 @@
+[
+  {
+    "role": "UI/UX Designer & Engineer",
+    "organisation": "The Glitch Witch",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Designing and developing mock-ups, wireframes, and prototypes for various digital products, including menus, navigation elements, and interactive components.", "Implementing UI/UX components and fixing various bugs in Unreal Engine 5."],
+    "imageSrc": "history/glitchWitch.png"
+  },
+  {
+    "role": "Teacher Assistant",
+    "organisation": "University of Southern California",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Assist students with homework assignments",
+      "Explained concepts in game programming, including state machines, vector mathematics, and matrix computations."
+    ],
+    "imageSrc": "history/USC.png"
+  }
+]

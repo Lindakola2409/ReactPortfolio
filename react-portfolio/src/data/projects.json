@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Color Representation and Quantization",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a C++ project focused on color representation and quantization in images, implementing both uniform and non-uniform quantization modes. Conducted analysis and produced error plots comparing quantization modes, with particular emphasis on improving convergence and reducing overall error.",
+    "skills": ["C++", "Digital Image Processing", "Quantization"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "DCT Image Compression",
+    "imageSrc": "projects/project.png",
+    "description": "Implemented a DCT-based coder-decoder to that compressed and decoded images, simulated baseline and progressive modes of data delivery. Parameters such as quantization level, delivery mode, and latency are utilized to control the compression process and simulate different decoding scenarios, with the aim of understanding DCT's role in compression and decoding.",
+    "skills": ["C++", "JPEG Compression", "Encoding and Decoding Images", "DCT Image Compression"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Spatial/Temporal Sampling and Filtering Media",
+    "imageSrc": "projects/project.png",
+    "description": "Implemented a C++ project focusing on spatial/temporal sampling and filtering in visual media, utilizing RGB image processing with zooming and rotating effects. Successfully generated videos from input images, dynamically adjusting content based on parameters such as zoom speed, rotation speed, and frames per second.",
+    "skills": ["C++", "Digital Image Processing", "Anti-aliased Image Processing"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Media Match",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an advanced solution for searching and indexing video/audio content using python. Our project, Media Match, focused on efficiently locating specific segments within large multimedia databases. We designed and implemented a custom algorithm to preprocess video/audio data and generate digital signatures, enabling accurate matching of query snippets. Our solution also featured a user-friendly media player with audio-video synchronization for displaying search results.",
+    "skills": ["Python", "Full Stack", "Motion Dectection", "Pattern Recognition"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Lindakola2409/-Media-Match"
+  }
+]
